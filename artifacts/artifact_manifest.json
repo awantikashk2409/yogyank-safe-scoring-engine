@@ -1,0 +1,6 @@
+{
+    "model_file": "yogyank_pipeline.pkl",
+    "schema_file": "feature_schema.json",
+    "metadata_file": "metadata.json",
+    "version": "v2.0"
+}

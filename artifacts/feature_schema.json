@@ -1,0 +1,17 @@
+[
+    "farmer_id",
+    "application_year",
+    "district",
+    "land_area_acres",
+    "crop_type",
+    "pm_kisan_status",
+    "historical_repayment_score",
+    "irrigation_type",
+    "land_ownership",
+    "soil_type",
+    "sales_channel",
+    "annual_income_inr",
+    "liability_ratio_pct",
+    "rainfall_deviation_pct",
+    "ndvi_score"
+]
